@@ -3,7 +3,6 @@
 	<FileVersion major="1" minor="6" />
 	<Project>
 		<Option title="Usine_a_zombie" />
-		<Option execution_dir="C:/Users/render/Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -35,15 +34,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../../../Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/include/Bomber.h" />
-		<Unit filename="../../../Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/include/Rapace.h" />
-		<Unit filename="../../../Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/include/Tank.h" />
-		<Unit filename="../../../Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/include/Zombie.h" />
-		<Unit filename="../../../Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/main.cpp" />
-		<Unit filename="../../../Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/src/Bomber.cpp" />
-		<Unit filename="../../../Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/src/Rapace.cpp" />
-		<Unit filename="../../../Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/src/Tank.cpp" />
-		<Unit filename="../../../Desktop/Andrea M/PROG/ProjetCodeblock/caca/Usine_a_zombie/src/Zombie.cpp" />
+		<Unit filename="include/Bomber.h" />
+		<Unit filename="include/Rapace.h" />
+		<Unit filename="include/Tank.h" />
+		<Unit filename="include/Zombie.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Bomber.cpp" />
+		<Unit filename="src/Rapace.cpp" />
+		<Unit filename="src/Tank.cpp" />
+		<Unit filename="src/Zombie.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

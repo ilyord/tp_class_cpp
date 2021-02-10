@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1612956549 source:c:\users\render\desktop\andrea m\prog\projetcodeblock\caca\usine_a_zombie\main.cpp
+	"Bomber.h"
+	"Tank.h"
+	"Rapace.h"
+
+1612955067 c:\users\render\desktop\andrea m\prog\projetcodeblock\caca\usine_a_zombie\include\zombie.h
+	<string>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1612955728 source:c:\users\render\desktop\andrea m\prog\projetcodeblock\caca\usine_a_zombie\src\zombie.cpp
+	"Zombie.h"
+	<iostream>
+
+1612952936 c:\users\render\desktop\andrea m\prog\projetcodeblock\caca\usine_a_zombie\include\bomber.h
+	<Zombie.h>
+
+1612953942 source:c:\users\render\desktop\andrea m\prog\projetcodeblock\caca\usine_a_zombie\src\bomber.cpp
+	"Bomber.h"
+
+1612955067 source:c:\users\render\desktop\andrea m\prog\projetcodeblock\caca\usine_a_zombie\src\tank.cpp
+	"Tank.h"
+
+1612954391 c:\users\render\desktop\andrea m\prog\projetcodeblock\caca\usine_a_zombie\include\tank.h
+	<Zombie.h>
+
+1612956696 source:c:\users\render\desktop\andrea m\prog\projetcodeblock\caca\usine_a_zombie\src\rapace.cpp
+	"Rapace.h"
+
+1612956096 c:\users\render\desktop\andrea m\prog\projetcodeblock\caca\usine_a_zombie\include\rapace.h
+	<Zombie.h>
+
